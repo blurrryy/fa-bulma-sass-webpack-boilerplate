@@ -1,0 +1,7 @@
+@import "../node_modules/bulma/sass/utilities/initial-variables";
+@import "../node_modules/bulma/sass/utilities/functions";
+
+$family-serif: "Merriweather", "Georgia", serif;
+$family-primary: $family-serif;
+
+@import "../node_modules/bulma";
